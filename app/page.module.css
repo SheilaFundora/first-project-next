@@ -1,8 +1,6 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
   padding: 6rem;
   min-height: 100vh;
 }
@@ -17,7 +15,12 @@
   z-index: 2;
   font-family: var(--font-mono);
 }
-
+.tittle{
+  margin-top: 100px;
+  color: black;
+  font-size: 60px;
+  text-align: center;
+}
 .description a {
   display: flex;
   justify-content: center;

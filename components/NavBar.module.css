@@ -1,0 +1,14 @@
+
+.menu-navegation {
+    width: 40%;
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(var(--callout-rgb), 0.5);
+    border: 1px solid rgba(var(--callout-border-rgb), 0.3);
+    border-radius: var(--border-radius);
+}
+
+.menu-navegation-link{
+    padding: 0 12px;
+    font-size: 25px;
+}
